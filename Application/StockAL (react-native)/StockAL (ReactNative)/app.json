@@ -1,0 +1,12 @@
+{
+  "name": "StockAL",
+  "displayName": "StockAL",
+  "expo": {
+    "name": "StockAL",
+    "slug": "StockAL",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
