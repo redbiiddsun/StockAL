@@ -1,2 +1,0 @@
-
-StockAL (react-native)
