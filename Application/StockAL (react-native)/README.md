@@ -1,1 +1,1 @@
-# StockAL
+# StockAL (React Native)
